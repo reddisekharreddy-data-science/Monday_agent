@@ -1,11 +1,10 @@
-Monday.com Business Intelligence Agent
-Overview
-
+## Monday.com Business Intelligence Agent
+Overview:
 Briefly describe your project here.
 
 This application answers founder-level business questions using live data from monday.com boards. It integrates with the monday.com GraphQL API, cleans messy board data, and computes business insights in real time.
 
-Problem Statement
+Problem Statement:
 
 Explain the business problem your solution addresses.
 
@@ -69,20 +68,16 @@ python-dotenv
 
 Project Structure
 
-monday_agent/
+## monday_agent/
 ├── app.py
 ├── monday_api.py
 ├── agent.py
 ├── data_cleaning.py
 ├── business_logic.py
-├── requirements.txt
-└── README.md
+
 
 Installation
 
-Clone repository:
-
-git clone <your_repo_link>
 cd monday_agent
 
 Create environment:
